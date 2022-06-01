@@ -1,0 +1,41 @@
+.centrado{
+    margin:10px auto;
+    display:block;
+}
+h1 {
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    color: #005677;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #C4C4C4;
+}
+section h3 {
+    color: #005677;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: #C4C4C4;
+    font-feature-settings: 'cpsp' on;
+}
+li {
+    font-family: 'Times New Roman';
+    font-size: 15px;
+    }
+footer {
+    background: #005677;
+}
+footer p {
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.centradoFooter{
+    position: absolute;
+}
